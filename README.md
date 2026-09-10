@@ -1,5 +1,11 @@
 # Shinkansen Passenger Experience Prediction
 
+> **MIT Professional Certificate in AI & Data Science**
+>
+> This project was completed as part of the MIT Professional Certificate in AI & Data Science program.
+>
+> [View the complete four-project certificate portfolio](https://github.com/users/rickhegenbart/projects/2)
+
 An end-to-end machine learning project that predicts whether a passenger will report a positive overall experience when traveling on Japan's Shinkansen bullet train system.
 
 The project combines passenger travel information with survey-based service ratings, compares multiple classification models, and identifies the factors most strongly associated with passenger satisfaction. The final CatBoost model achieved **95.72% validation accuracy** and an **F1 score of 0.9605**.
