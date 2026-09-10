@@ -5,6 +5,8 @@
 > This project was completed as part of the MIT Professional Certificate in AI & Data Science program.
 >
 > [View the complete four-project certificate portfolio](https://github.com/users/rickhegenbart/projects/2)
+>
+Project Overview
 
 An end-to-end machine learning project that predicts whether a passenger will report a positive overall experience when traveling on Japan's Shinkansen bullet train system.
 
